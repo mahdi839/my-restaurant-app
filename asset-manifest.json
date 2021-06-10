@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-restaurant-app/static/css/main.881eea5a.chunk.css",
+    "main.js": "/my-restaurant-app/static/js/main.6230d354.chunk.js",
+    "main.js.map": "/my-restaurant-app/static/js/main.6230d354.chunk.js.map",
+    "runtime-main.js": "/my-restaurant-app/static/js/runtime-main.54ed03ed.js",
+    "runtime-main.js.map": "/my-restaurant-app/static/js/runtime-main.54ed03ed.js.map",
+    "static/js/2.9968b0a9.chunk.js": "/my-restaurant-app/static/js/2.9968b0a9.chunk.js",
+    "static/js/2.9968b0a9.chunk.js.map": "/my-restaurant-app/static/js/2.9968b0a9.chunk.js.map",
+    "static/js/3.d4740965.chunk.js": "/my-restaurant-app/static/js/3.d4740965.chunk.js",
+    "static/js/3.d4740965.chunk.js.map": "/my-restaurant-app/static/js/3.d4740965.chunk.js.map",
+    "index.html": "/my-restaurant-app/index.html",
+    "static/css/main.881eea5a.chunk.css.map": "/my-restaurant-app/static/css/main.881eea5a.chunk.css.map",
+    "static/js/2.9968b0a9.chunk.js.LICENSE.txt": "/my-restaurant-app/static/js/2.9968b0a9.chunk.js.LICENSE.txt",
+    "static/media/about1.afe90f66.png": "/my-restaurant-app/static/media/about1.afe90f66.png",
+    "static/media/bg1.5d8621cb.png": "/my-restaurant-app/static/media/bg1.5d8621cb.png",
+    "static/media/carusel2.f050d843.png": "/my-restaurant-app/static/media/carusel2.f050d843.png",
+    "static/media/image1.2d20e75b.jpg": "/my-restaurant-app/static/media/image1.2d20e75b.jpg",
+    "static/media/image2.20e06a08.jpg": "/my-restaurant-app/static/media/image2.20e06a08.jpg",
+    "static/media/our1.f453dcaa.png": "/my-restaurant-app/static/media/our1.f453dcaa.png",
+    "static/media/our2.db655a48.png": "/my-restaurant-app/static/media/our2.db655a48.png",
+    "static/media/our3.5c8d5722.png": "/my-restaurant-app/static/media/our3.5c8d5722.png",
+    "static/media/pic1.27a590ab.png": "/my-restaurant-app/static/media/pic1.27a590ab.png",
+    "static/media/pic2.ea7c6e4f.png": "/my-restaurant-app/static/media/pic2.ea7c6e4f.png",
+    "static/media/pic3.11f5d54e.png": "/my-restaurant-app/static/media/pic3.11f5d54e.png",
+    "static/media/pic4.d6e89244.png": "/my-restaurant-app/static/media/pic4.d6e89244.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54ed03ed.js",
+    "static/js/2.9968b0a9.chunk.js",
+    "static/css/main.881eea5a.chunk.css",
+    "static/js/main.6230d354.chunk.js"
+  ]
+}

@@ -9,7 +9,7 @@ export default function Home() {
   
     <div className='greeting-div'>
         <div className="col-7 text-center  justify-content-center grc">
-            <h4 style={{fontWeight:'bold',fontFamily:'robot'}}>Welcomes to Mahdis corner</h4>
+            <h4 style={{fontWeight:'bold',fontFamily:'robot'}}>Welcomes to <span style={{color:'yellow'}}>Mahdis corner</span></h4>
             <h1 className='heading'>We belive good food <br />
             offer great smile</h1>
             <br />

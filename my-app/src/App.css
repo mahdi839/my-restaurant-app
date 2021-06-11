@@ -700,15 +700,17 @@ body {
     font-size: 1.2rem;
   }
   .nav {
-    padding: 0.7rem;
+    padding: 0.8rem;
   }
   .logo-div {
     position: absolute;
+    display: -webkit-flex;
     display: flex;
+    -webkit-flex-direction: row;
     flex-direction: row;
-    left: 5.5rem;
-    top: 0.6rem;
-  }
+    left: 6rem;
+    top: .09rem;
+}
   .navdiv ul li a {
     font-size: 1.3rem;
     font-weight: bold;
